@@ -11,4 +11,11 @@
     box-shadow: 2px;
     box-shadow: 1px 1px 15px 1px #888888;
     font-weight: bold;
+   letter-spacing: 2px;
+   transition-duration: .3s;
    }
+
+#saveForm:hover{
+  color: white;
+  background-color: #cdb262;
+}
