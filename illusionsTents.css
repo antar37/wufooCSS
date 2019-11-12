@@ -1,5 +1,26 @@
-#saveForm{
+#saveForm {
+   
+    color: #2b8d93;
+    text-transform: uppercase;
+   letter-spacing: 2px;
+   transition-duration: .3s;
+   padding: 25px 35px 25px 35px;
+   border-width: 2px;
+  border-color: #60b6bb;
+   }
 
+#saveForm:hover{
+  opacity:70%;
+}
+
+.wufoo input.text {
+    
+    padding: 10px 15px 10px 15px;
+}
+
+.wufoo select.select{
+    
+    padding: 10px 15px 10px 15px;
 }
 
 .subfield{
