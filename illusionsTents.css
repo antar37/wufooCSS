@@ -4,7 +4,7 @@
     text-transform: uppercase;
    letter-spacing: 2px;
    transition-duration: .3s;
-   padding: 25px 35px 25px 35px;
+   padding: 15px 35px 15px 35px;
    border-width: 2px;
   border-color: #60b6bb;
    }
@@ -15,12 +15,12 @@
 
 .wufoo input.text {
     
-    padding: 7px 15px 7px 15px;
+    padding: 5px 15px 5px 15px;
 }
 
 .wufoo select.select{
     
-    padding: 7px 15px 7px 15px;
+    padding: 5px 15px 5px 15px;
 }
 
 .wufoo li span{
