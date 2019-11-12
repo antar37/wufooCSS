@@ -15,15 +15,15 @@
 
 .wufoo input.text {
     
-    padding: 10px 15px 10px 15px;
+    padding: 7px 15px 7px 15px;
 }
 
 .wufoo select.select{
     
-    padding: 10px 15px 10px 15px;
+    padding: 7px 15px 7px 15px;
 }
 
-.subfield{
+.wufoo li span{
   color: #444;
 
 }
