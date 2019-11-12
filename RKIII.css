@@ -1,0 +1,18 @@
+.wufoo label.desc{
+  weight-font:bold;
+  letter-spacing: 2px;
+}
+
+#saveForm {
+    background-color:#aa1f32;
+    border: 0px!important;
+    color: white;
+    text-transform: uppercase;
+   letter-spacing: 2px;
+   transition-duration: .3s;
+   padding: 15px 35px 15px 35px;
+   }
+
+#saveForm:hover{
+  opacity:65%;
+}
