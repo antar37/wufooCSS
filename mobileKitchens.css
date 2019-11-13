@@ -2,7 +2,7 @@
    display:none;
 }
 
-input.field, textarea.field{
+input.field, textarea.field, select.field{
    border: 3px solid black!important;
    padding:10px!important;
    box-sizing:border-box!important;
