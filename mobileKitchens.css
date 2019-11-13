@@ -3,7 +3,8 @@
 }
 
 .field{
-   border: 3px solid black;
-   height:1.5em;
-   padding:5px;
+   border: 3px solid black!important;
+   height:1.5em!important;
+   padding:5px!important;
+   box-sizing:border-box!important;
 }
