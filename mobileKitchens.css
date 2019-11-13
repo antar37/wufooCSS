@@ -2,6 +2,8 @@
    display:none;
 }
 
-input.field{
+.field{
    border: 3px solid black;
+   height:1.5em;
+   padding:5px;
 }
