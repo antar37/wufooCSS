@@ -26,4 +26,5 @@ input.field, textarea.field, select.field{
    background-color:black;
    color:white;
    border-color:white;
+   cursor:pointer;
 }
