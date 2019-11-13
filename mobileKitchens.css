@@ -2,9 +2,8 @@
    display:none;
 }
 
-.field:not([type="checkbox"]){
+input.field, textarea.field{
    border: 3px solid black!important;
-   height:2.3em!important;
-   padding:5px!important;
+   padding:10px!important;
    box-sizing:border-box!important;
 }
