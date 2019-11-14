@@ -15,10 +15,10 @@
 
 .wufoo input.text {
      box-shadow: 0px!important;
-    padding: 10px 2px 10px 2px;
+    padding: 8px 2px 8px 2px;
 }
 
 .wufoo select.select{
     box-shadow: 0px!important;
-    padding: 10px 2px 10px 2px;
+    padding: 8px 2px 8px 2px;
 }
