@@ -7,7 +7,7 @@
    transition-duration: .3s;
    padding: 15px 30px 15px 30px;
    background-color: #fc6f00;
-   border-radius: 12px;
+   border-radius: 8px;
    }
 
 #saveForm:hover{
@@ -15,11 +15,11 @@
 }
 
 .wufoo input.text {
-     border: 0px!important;
-    padding: 10px 15px 10px 15px;
+     box-shadow: 0px!important;
+    padding: 8px 12px 8px 12px;
 }
 
 .wufoo select.select{
-    border: 0px!important;
-    padding: 10px 15px 10px 15px;
+    box-shadow: 0px!important;
+    padding: 8px 12px 8px 12px;
 }
