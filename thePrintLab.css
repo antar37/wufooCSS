@@ -13,3 +13,13 @@
 #saveForm:hover{
   background-color: #8c0fff;
 }
+
+.wufoo input.text {
+     border: 0px!important;
+    padding: 10px 15px 10px 15px;
+}
+
+.wufoo select.select{
+    border: 0px!important;
+    padding: 10px 15px 10px 15px;
+}
