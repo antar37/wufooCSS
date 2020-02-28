@@ -5,6 +5,7 @@ input.btTxt {
     color: white;
     border-width: 1px;
     padding: 7px 25px;
+    opacity: 50%;
 }
 
 input.btTxt:hover {
