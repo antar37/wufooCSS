@@ -7,6 +7,6 @@ input.btTxt {
     padding: 7px 25px;
 }
 
-input.btTxt :hover {
+input.btTxt:hover {
    opacity: 50%;
 }
