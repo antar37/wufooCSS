@@ -5,9 +5,9 @@ input.btTxt {
     color: white;
     border-width: 1px;
     padding: 7px 25px;
-    
+     opacity: 0.5;
 }
 
 input.btTxt:hover {
-   opacity: 0.5;
+    opacity: 0.5;
 }
