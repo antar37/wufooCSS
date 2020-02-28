@@ -1,0 +1,12 @@
+
+input.btTxt {
+    border-color: white;
+    background: transparent;
+    color: white;
+    border-width: 1px;
+    padding: 7px 25px;
+}
+
+input.btTxt :hover {
+   opacity: 50%;
+}
