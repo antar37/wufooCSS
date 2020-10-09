@@ -2,6 +2,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display&display=swap');
 
+#fo24li1 span{
+    width: 48%;
+}
+li:not(:last-child){
+    margin-right:2%;
+}
+li>div>input{
+    width:100%
+}
+
+
 #saveForm  {
     display: -webkit-box;
     display: -webkit-flex;
