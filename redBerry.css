@@ -26,6 +26,6 @@
     padding: 10px 15px 10px 15px;
 }
 
-h3, label{
+.wufoo .section h3, .wufoo label.desc, .wufoo legend.desc, .likert caption{
 font-family: 'Playfair Display', serif;
 }
