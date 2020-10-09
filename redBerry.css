@@ -1,5 +1,6 @@
 /* ---- Red Berry Estate Wufoo CSS ---- */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display&display=swap');
 
 #saveForm  {
     font-size: 20px;
@@ -24,6 +25,8 @@
 .wufoo select.select{
     font-size: 15px;
     padding: 10px 15px 10px 15px;
+    font-family: 'Lato', sans-serif;
+    text-transform:uppercase;
 }
 
 .wufoo .section h3, .wufoo label.desc, .wufoo legend.desc, .likert caption{
