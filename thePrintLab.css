@@ -22,3 +22,11 @@
     box-shadow: 0px!important;
     padding: 8px 2px 8px 2px;
 }
+
+@media only screen and (max-width: 600px) {
+.wufoo .leftHalf, .wufoo .rightHalf{
+  width: auto!important;
+  float:none!important;
+}
+
+}
