@@ -30,7 +30,7 @@
  }
  
  @media (max-width: 599px) {
-    .leftHalf, .rightHalf{
+    form li.leftHalf, form li.rightHalf{
         width:97%!important;
     }
   }
