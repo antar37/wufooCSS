@@ -1,5 +1,5 @@
 @media (max-width: 599px) {
-    .leftHalf, .rightHalf{
-        width:100%;
+    form li.leftHalf, form li.rightHalf{
+        width:100%!important;
     }
   }
