@@ -1,4 +1,4 @@
-@import url("wufooResponsive.css");
+@import "wufooResponsive.css";
 
 #header h2{
     display:none;
