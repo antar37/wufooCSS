@@ -1,24 +1,6 @@
 #header h2{
     display:none;
  }
- 
- form li.leftHalfCustom, form li.leftThird, form li.leftFourth, form li.leftFifth{
-   clear: left;
-   float: left;
- }
-
- form li.leftHalfCustom, form li.rightHalfCustom {
-   width: 47%!important;
-}
-
-form li.rightHalfCustom, form li.rightThird, form li.rightFourth, form li.rightFifth {
-   clear: none !important;
-   float: right;
-}
-
- form li.leftHalfCustom, form li.rightHalfCustom {
-   width: 47%!important;
- }
 
  input.field, textarea.field, select.field{
     border: 3px solid black!important;
@@ -46,9 +28,3 @@ form li.rightHalfCustom, form li.rightThird, form li.rightFourth, form li.rightF
     border-color:white;
     cursor:pointer;
  }
- 
- @media (max-width: 599px) {
-    form li.responsive{
-        width:97%!important;
-    }
-  }
