@@ -10,7 +10,10 @@
  .buttons{
     text-align:center;
  }
- 
+ .choice__text{
+   padding-left:30px;
+ }
+
  #saveForm{
     width: 250px;
     height: 50px;
