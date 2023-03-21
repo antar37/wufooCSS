@@ -2,6 +2,24 @@
     display:none;
  }
  
+ form li.leftHalfCustom, form li.leftThird, form li.leftFourth, form li.leftFifth{
+   clear: left;
+   float: left;
+ }
+
+ form li.leftHalfCustom, form li.rightHalfCustom {
+   width: 47%;
+}
+
+form li.rightHalfCustom, form li.rightThird, form li.rightFourth, form li.rightFifth {
+   clear: none !important;
+   float: right;
+}
+
+ form li.leftHalfCustom, form li.rightHalfCustom {
+   width: 47%;
+ }
+
  input.field, textarea.field, select.field{
     border: 3px solid black!important;
     padding:10px!important;
