@@ -8,7 +8,7 @@
  }
 
  form li.leftHalfCustom, form li.rightHalfCustom {
-   width: 47%;
+   width: 47%!important;
 }
 
 form li.rightHalfCustom, form li.rightThird, form li.rightFourth, form li.rightFifth {
@@ -17,7 +17,7 @@ form li.rightHalfCustom, form li.rightThird, form li.rightFourth, form li.rightF
 }
 
  form li.leftHalfCustom, form li.rightHalfCustom {
-   width: 47%;
+   width: 47%!important;
  }
 
  input.field, textarea.field, select.field{
