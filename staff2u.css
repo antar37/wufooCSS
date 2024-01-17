@@ -16,3 +16,8 @@ input.field {
   line-height: 1.42857;
   display: block;
 }
+
+li:has(.checkbox) {
+  display: flex;
+  justify-content: center;
+}
