@@ -21,3 +21,21 @@ li:has(.checkbox) {
   display: flex;
   justify-content: center;
 }
+
+#saveForm {
+  color: rgb(20, 48, 94);
+  -webkit-appearance: button;
+  font-size: 40px;
+  text-transform: uppercase;
+  background-color: rgba(56, 152, 236, 0);
+  margin-top: -28px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  line-height: inherit;
+  cursor: pointer;
+  border: 0;
+  border-radius: 0;
+  padding: 9px 15px;
+  text-decoration: none;
+  display: inline-block;
+}
