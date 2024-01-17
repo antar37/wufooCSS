@@ -16,12 +16,14 @@ input.field {
   display: block;
 }
 
-li:has(.checkbox) {
+li:has(.checkbox),
+li:has(#saveForm) {
   display: flex;
   justify-content: center;
 }
 
 #saveForm {
+  margin-top: 50px;
   color: rgb(20, 48, 94);
   -webkit-appearance: button;
   font-size: 40px;
