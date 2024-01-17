@@ -7,9 +7,9 @@ input.field {
   border-radius: 0.5px;
   margin-bottom: 40px;
   margin-right: 40px;
-  font-family: Montserrat, sans-serif;
-  font-size: 20px;
-  font-weight: 600;
+  font-family: Montserrat, sans-serif !important;
+  font-size: 20px !important;
+  font-weight: 600 !important;
   width: 100%;
   vertical-align: middle;
   padding: 8px 12px;
