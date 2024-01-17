@@ -39,3 +39,7 @@ li:has(#saveForm) {
   text-decoration: none;
   display: inline-block;
 }
+
+#saveForm:hover {
+  color: #3898ec;
+}
