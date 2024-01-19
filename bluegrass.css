@@ -1,0 +1,18 @@
+header {
+  display: none;
+}
+
+#saveForm {
+  background-color: black;
+  color: white;
+  border-color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.redesigned-theme-2018 .wufoo ul li {
+  padding: 3px !important;
+}
+#saveForm:hover {
+  color: #333333;
+}
