@@ -1,9 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
 header {
   display: none !important;
 }
 
+input.field {
+  font-family: "Lato", sans-serif !important;
+}
+
 #saveForm {
   background-color: black;
+  font-family: "Lato", sans-serif !important;
   color: white;
   border-color: white;
   text-transform: uppercase;
